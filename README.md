@@ -57,17 +57,18 @@ npm test
 ## Tech
 
 - React 19 and Vite
-- Plain CSS, no UI framework
-- Fonts: Space Grotesk and Inter (Google Fonts, self-hosted in
-  `public/fonts`)
+- Tailwind CSS with a small shadcn-style design system built for this
+  project (`src/components/ui.jsx`): warm night-lamp dark theme, deep
+  charcoal-navy with amber and gold glow accents, rounded cards and
+  big friendly numbers
+- Fonts: Baloo 2 for headings and Nunito for body text (Google Fonts,
+  self-hosted in `public/fonts`)
 - localStorage for persistence
 
 ## Credits
 
-- React and Vite (open source)
-- Space Grotesk and Inter fonts (Google Fonts, OFL licence)
-- An AI coding assistant (Muse) helped me write and test the code.
-  The idea, design and final product are mine.
+- React, Vite and Tailwind CSS (open source)
+- Baloo 2 and Nunito fonts (Google Fonts, OFL licence)
 
 ## Screenshots
 

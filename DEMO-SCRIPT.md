@@ -7,9 +7,11 @@ end if time allows. Speak slowly and clearly. Total target: 2 minutes.
 
 Show the welcome screen.
 
-Say: "This is LightLog. If you are a student where I live, your day
-depends on when NEPA brings light. LightLog stops the guessing. It
-tracks your electricity and tells you when to charge."
+Say: "Hello, I am Ibrahim Yahaya from Bida, Niger State, Nigeria, a
+student at the Federal University of Technology Minna. This is
+LightLog. If you are a student where I live, your day depends on when
+NEPA brings light. LightLog stops the guessing. It tracks your
+electricity and tells you when to charge."
 
 Click: "Try it with a sample week".
 

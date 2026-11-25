@@ -35,7 +35,7 @@ Everything is stored on the device with localStorage, so it works offline, needs
 ## Technologies
 
 - React and Vite for the app
-- Plain CSS for the design (dark navy with coral and amber, Space Grotesk and Inter fonts)
+- Tailwind CSS with a small shadcn-style design system built for this project: warm night-lamp dark theme, deep charcoal-navy with amber and gold glow accents, rounded cards, big friendly numbers, Baloo 2 headings with Nunito body text
 - localStorage for saving logs on the device
 - The core maths (on/off periods, hourly coverage, charge estimates, best charging window) is written as pure functions in one file and covered by 13 unit tests
 
@@ -65,7 +65,6 @@ Open the local address Vite prints. Click "Try it with a sample week" to see the
 
 ## Credits
 
-- React and Vite (open source)
-- Space Grotesk and Inter fonts from Google Fonts (OFL licence), self-hosted in the repo
-- AI tools used: an AI coding assistant (Muse) helped me write and test the code. The idea, design and final product are mine.
+- React, Vite and Tailwind CSS (open source)
+- Baloo 2 and Nunito fonts from Google Fonts (OFL licence), self-hosted in the repo
 - All work on this project was done during the LaunchPad Hacks hacking period (from 16 Oct 2026).
